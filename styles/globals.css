@@ -1,9 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@500&family=Vollkorn:ital@1&display=swap');  
+
 html,
 body {
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+    font-family: 'Vollkorn', serif;
+}
+
+::-webkit-scrollbar{
+  display: none;
 }
 
 a {
